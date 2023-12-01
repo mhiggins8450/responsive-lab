@@ -1,0 +1,24 @@
+/* Mobile View */
+@media (min-width: 480px) {
+  .container {
+    background-color: #B9D9EB;
+    border: 5vh solid black;
+    padding: 20px;
+  }
+}
+
+/* Tablet View */
+@media (min-width: 768px) {
+  .container {
+    background-color: brown;
+    border: 5vh solid limegreen;
+  }
+}
+
+/* Desktop View */
+@media (min-width: 1024px) {
+  .container {
+    background-color: white;
+    border: 5vh solid brown;
+  }
+}
